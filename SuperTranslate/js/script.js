@@ -203,7 +203,7 @@ var App = Base.extend({
     {code: 'yi', label: 'Yiddish', tts: 'no'}
     ],
 
-    TRANSLATE_URL_PREFIX: 'https://www.googleapis.com/language/translate/v2?key=IzaSyCuMT2ZOlqqS6NOPb56X-NamBHXPkWN778'
+    TRANSLATE_URL_PREFIX: 'https://www.googleapis.com/language/translate/v2?key=AIzaSyAnYDer9gnoUCSzpXyztEZGEGHiZxdbrtU'
 
 });
 
